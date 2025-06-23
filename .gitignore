@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+.venv/
+*.sqlite3
+
+# Environment
+.env
+
+# macOS
+.DS_Store
